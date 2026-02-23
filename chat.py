@@ -6,7 +6,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 import asyncio
 
 # Токен бота
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "7995281142:AAGyqRVl9yRE6H1Jjry743Y8wRkXtY2WA64"
 
 # Включаем логирование
 logging.basicConfig(level=logging.INFO)
